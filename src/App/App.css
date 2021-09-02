@@ -1,0 +1,15 @@
+
+.fail{
+  text-align: center;
+  color: rgba(238, 17, 17, 0.933);
+}
+
+.loading{
+  text-align: center;
+  color: rgba(238, 87, 17, 0.933);
+}
+
+.ready{
+  text-align: center;
+  color: rgba(80, 238, 17, 0.933);
+}
