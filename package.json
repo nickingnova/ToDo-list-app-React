@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "3.2.3"
   },
-  "homepages" : "https://nickingnova.github.io/ToDo-list-app-React"
+  "homepages" : "https://nickingnova.github.io/ToDo-list-app-React/"
 }
